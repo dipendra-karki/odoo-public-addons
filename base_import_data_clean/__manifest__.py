@@ -15,5 +15,6 @@ Extends Odoo's file import system:
     'installable': True,
     'auto_install': True,
     'application': False,
+    'images': ['/main_screenshot.png'],
     'license': 'LGPL-3',
 }
